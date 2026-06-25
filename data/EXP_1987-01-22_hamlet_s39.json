@@ -1,0 +1,65 @@
+{
+  "dokument_id": "EXP_1987-01-22_hamlet_s39",
+  "chunks": [
+    {
+      "chunk_id": "EXP_1987-01-22_hamlet_s39_chunk-01",
+      "chunk_index": 1,
+      "text": "Dramaten\nLeif Zern svarar Agneta Pleijel om kritiken apropå \"Hamlet\"\n\nGlasklar som ett nyputsat fönster.\n\n\"JAG\" — ett riktmärke?\n\n• Expressen 21/1",
+      "kontext": {
+        "publikation": "Expressen",
+        "datum": "1987-01-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Leif Zern",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Glasklar som ett nyputsat fönster. \"JAG\" — ett riktmärke?",
+        "notering": "Sämre OCR-kopia av samma artikel som EXP_1987-01-22_hamlet_RAG_s34"
+      }
+    },
+    {
+      "chunk_id": "EXP_1987-01-22_hamlet_s39_chunk-02",
+      "chunk_index": 2,
+      "text": "DET FÖREKOMMER i nästan alla debatter personer som för eller senare anser sig till ett sälla saker än till rätta. Det finns också frågor över den sorts klargörande eller, ibland, överväldigande. Men kan en diskussion om ett konstverk vara så där såända fråga? Är klarhet en nödvändighet en dygd i den pinsamt infamlerade debatten om Ingmar Bergmans \"Hamlet\"?\n\nVad skulle det vara för klarhet?\nEn tolkning, om alla ens kring i största samförstånd:\n— En värdering som spikad upp till nationell yta?\nErland Josephson skrev på denna sida (Expr. 15/1) en vacker, engagerad och tankeväckande artikel om Bergmans \"Hamlet\". Den var omutligt skarp i kritiken av de dunkla teaterformer i recensioner och debatten — och andades på samma gång en paradoxal tro på samtidens möjligheter, väl teaterns möjlighet att öga gränser och avgrunder förmedla kunskaper och erfarenheter.",
+      "kontext": {
+        "publikation": "Expressen",
+        "datum": "1987-01-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Leif Zern",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Glasklar som ett nyputsat fönster. \"JAG\" — ett riktmärke?",
+        "status": "ofullständig"
+      }
+    },
+    {
+      "chunk_id": "EXP_1987-01-22_hamlet_s39_chunk-03",
+      "chunk_index": 3,
+      "text": "Agneta Pleijels artikel i samma ämne och ärende här på sidan (Expr. 21/1) var av ett helt annat slag. Hos henne har \"saken\" reducerats till ett barnsligt problem med ord: \"Hur ställer ni då till det — har inte förstått Bergmans 'Hamlet', denna så vackra, enkla och glasklara föreställning.\"\n\nÅ ena sidan dessa omkansvärda knasbollar, å den andra dessa förnuftiga personer — Pleijel och publiken — som ser rätt in i det nyputsade fönstret: alla borde se vad hon ser.",
+      "kontext": {
+        "publikation": "Expressen",
+        "datum": "1987-01-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Leif Zern",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Glasklar som ett nyputsat fönster. \"JAG\" — ett riktmärke?",
+        "status": "ofullständig"
+      }
+    },
+    {
+      "chunk_id": "EXP_1987-01-22_hamlet_s39_chunk-04",
+      "chunk_index": 4,
+      "text": "(På sätt och vis är Agneta Pleijels egen artikel ett exempel på problemet, eftersom den med undantag av ett par sekvenser lika gärna kunde vara en beskrivning av pjäsen som av bergmans iscensättning av den, dvs. [oläsligt])\n\nMen Agneta Pleijel ser bara föraktet mot föraktet, det slutgiltigt generaliserande föraktet. Hon borde kanske tänka på att det trots allt finns personer som av samma skäl som hon döms att lyssna när teaterspråkets elementära tecken, fast ur salongens och åskådarens perspektiv. Att de kommer till andra resultat än hon betyder inte nödvändigtvis att de saknar hennes överblick, nödvändig och tänjande.\n\nJag, ett riktmärke. —\nLåt oss bekämpa den likgiltigt som alldeles för ofta tömmer teaterkritiken på metoder!\n\nMen låt oss i så fall hålla fast vid saken, vid kärnan i vad det som tvärs igenom föreställninga värderingar till eller oss teaterns.",
+      "kontext": {
+        "publikation": "Expressen",
+        "datum": "1987-01-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Leif Zern",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Glasklar som ett nyputsat fönster. \"JAG\" — ett riktmärke?",
+        "status": "ofullständig"
+      }
+    }
+  ]
+}

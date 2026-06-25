@@ -1,0 +1,68 @@
+{
+  "dokument_id": "ARB_1988-06-12_hamlet_s55",
+  "chunks": [
+    {
+      "chunk_id": "ARB_1988-06-12_hamlet_s55_chunk-01",
+      "text": "Svensk Hamlet i USA - STORSUCCÉ. Det faktum att Dramatens skådespelare spelar \"Hamlet\" på svenska på Brooklyn Academy of Music i New York har inte hindrat de amerikanska teaterkritikerna från att ge sitt gillande till den omskrivna föreställningen. New York-tidningarna ger överlag positiva omdömen om den gästande föreställningen som man kallar omväxlande för \"djärv\" och \"våldsam\" och \"förträffligt skådespeleri\".",
+      "kontext": {
+        "publikation": "Arbetet",
+        "datum": "1988-06-12",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Claes Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Svensk Hamlet i USA – STORSUCCÉ",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "ARB_1988-06-12_hamlet_s55_chunk-02",
+      "text": "Det kanske bästa betyget för regissören Ingmar Bergman själv kommer från Howard Kissell i Daily News som skriver att \"hade man inte vetat att det är Bergman som regisserat denna Hamlet så hade man kunnat tro att arbetet gjorts av någon vild, ung pojkspoling från Chicago\". Kissell fortsätter ge beröm åt produktionens \"många biljanta visuella idéer\" och skriver vidare att \"ensamblen är fylld av skådespelare med enorm kraft\". Han pekar särskilt ut Pernilla Östergren som Ofelia och Peter Stormare som Hamlet.",
+      "kontext": {
+        "publikation": "Arbetet",
+        "datum": "1988-06-12",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Claes Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Svensk Hamlet i USA – STORSUCCÉ",
+        "plats": "New York",
+        "refererad_publikation": "Daily News",
+        "refererad_recensent": "Howard Kissell"
+      }
+    },
+    {
+      "chunk_id": "ARB_1988-06-12_hamlet_s55_chunk-03",
+      "text": "Peter Stormare får samma fina lovord från New York Times som kallar hans rollprestation \"dynamisk\". Samma kritiker ger också en särskild eloge åt Ulf Johanson i rollen som Polonius. Intresset för Hamlet-föreställningen har varit stort med många och långa förhandsartiklar i New York-tidningarna. Detta är första gången som en av Ingmar Bergmans teaterföreställningar spelas i New York och det är bara andra gången som ett av hans scenerverk spelas i USA. Förra året gästade Dramaten Los Angeles med Bergmans uppsättning av \"Fröken Julie\".",
+      "kontext": {
+        "publikation": "Arbetet",
+        "datum": "1988-06-12",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Claes Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Svensk Hamlet i USA – STORSUCCÉ",
+        "plats": "New York",
+        "refererad_publikation": "New York Times"
+      }
+    },
+    {
+      "chunk_id": "ARB_1988-06-12_hamlet_s55_chunk-04",
+      "text": "Även skådespelarna själva var väldigt nöjda med premiärföreställningen i New York som gav dem stående ovationer i slutet. Enligt anställda på teatern var detta första gången på ett och ett halvt år som något fått stående ovationer på teatern. - Publiken levde med på ett sätt som vi inte har varit med om tidigare, säger Peter Stormare och Gunnel Lindblom fyller på med ytterligare beröm åt publiken: - Publiken var enormt generös. Vi fick ett väldsamt mottagande då vi gästspelade i London och trodde inte att det här skulle kunna tävla med den upplevelsen.",
+      "kontext": {
+        "publikation": "Arbetet",
+        "datum": "1988-06-12",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Claes Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Svensk Hamlet i USA – STORSUCCÉ",
+        "plats": "New York"
+      }
+    }
+  ]
+}

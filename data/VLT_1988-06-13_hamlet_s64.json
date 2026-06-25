@@ -1,0 +1,69 @@
+{
+  "dokument_id": "VLT_1988-06-13_hamlet_s64",
+  "chunks": [
+    {
+      "chunk_id": "VLT_1988-06-13_hamlet_s64_chunk-01",
+      "text": "Succé för Bergmans Hamlet. \"Inget är riktigt vad det förefaller vara i den värld som Ingemar Bergman skapar i sin väldsamma och ofta hypnotiserande uppsättning av Hamlet, som har anlänt till Brooklyns musikalisaka akademi i New York\". Det skriver AP:s teaterkritiker Michael Kuchwara.",
+      "kontext": {
+        "publikation": "Vestmanlands Läns Tidning",
+        "datum": "1988-06-13",
+        "ort": "Västerås",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Succé för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_recensent": "Michael Kuchwara",
+        "refererad_publikation": "AP"
+      }
+    },
+    {
+      "chunk_id": "VLT_1988-06-13_hamlet_s64_chunk-02",
+      "text": "Michael Kuchwara rosar föreställningen, som ska spelas åtta gånger i New York. Peter Stormares Hamlet betecknar han som \"fascinerande och kraftfull...han skulle lika gärna kunna höra hemma på någon av New Yorks trendiga rockklubbar\". Han skriver vidare: - I centrum av Bergmans kaos finns en mörk, lång och grubblande figur... Klädd helt i svart och med soligasidogon gör Hamlet entré. Han spelas av den fascinerande och kraftfull skådespelare som heter Peter Stormare. I hans gestaltning antar Hamlet drag av både Marlon Brando och Norman Bates.",
+      "kontext": {
+        "publikation": "Vestmanlands Läns Tidning",
+        "datum": "1988-06-13",
+        "ort": "Västerås",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Succé för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_recensent": "Michael Kuchwara",
+        "refererad_publikation": "AP"
+      }
+    },
+    {
+      "chunk_id": "VLT_1988-06-13_hamlet_s64_chunk-03",
+      "text": "Kuchwara öser också positiva omdömen över de övriga skådespelarna. Pernilla Östergrens Ofelia beskriver han som \"rörande...en barnkvinna som tvingas bevittna det moraliska förfallet...\" Börje Ahlstedt gör Claudius till en suput med ständig sexhunger... Gunnel Lindbloms Gertrud matchar honom perfekt... Sällan har dessa kungliga vrak framställts så levande.",
+      "kontext": {
+        "publikation": "Vestmanlands Läns Tidning",
+        "datum": "1988-06-13",
+        "ort": "Västerås",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Succé för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_recensent": "Michael Kuchwara",
+        "refererad_publikation": "AP"
+      }
+    },
+    {
+      "chunk_id": "VLT_1988-06-13_hamlet_s64_chunk-04",
+      "text": "De enda invändningar Kuchwara har mot föreställningen är det faktum att den spelas på svenska, vilket han menar innebär att de som inte redan känner till handlingen inte förstår någonting. Han är också kritisk mot att dialogen har ändrats så att Shakespeares poesi går förlorad.",
+      "kontext": {
+        "publikation": "Vestmanlands Läns Tidning",
+        "datum": "1988-06-13",
+        "ort": "Västerås",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Succé för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_recensent": "Michael Kuchwara",
+        "refererad_publikation": "AP"
+      }
+    }
+  ]
+}

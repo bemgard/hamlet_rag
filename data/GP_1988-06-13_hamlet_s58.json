@@ -1,0 +1,83 @@
+{
+  "dokument_id": "GP_1988-06-13_hamlet_s58",
+  "chunks": [
+    {
+      "chunk_id": "GP_1988-06-13_hamlet_s58_chunk-01",
+      "text": "Dramatens New York-gästspel: Beröm för Hamlet. Det faktum att Dramatens skådespelare spelar Hamlet på svenska på Brooklyn Academy of Music i New York har inte hindrat de amerikanska teaterkritikerna från att ge sitt gillande till den omskrivna föreställningen. New York-tidningarna ger överlag positiva omdömen om den gästande föreställningen som man kallar omväxlande för \"djärv\" och \"våldsam\" med \"förträffligt skådespeleri\".",
+      "kontext": {
+        "publikation": "Göteborgs-Posten",
+        "datum": "1988-06-13",
+        "ort": "Göteborg",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Clas Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Dramatens New York-gästspel: Beröm för Hamlet",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "GP_1988-06-13_hamlet_s58_chunk-02",
+      "text": "Det kanske bästa betyget för Ingmar Bergman kommer från Howard Kissell i Daily News som skriver att \"hade man inte vetat att det är Bergman som regisserat denna Hamlet, så hade man kunnat tro att arbetet gjorts av någon vild, ung pojkspoling från Chicago\". Kissell fortsätter ge beröm åt produktionen. \"Många briljanta visuella idéer\" och skriver vidare att \"ensamblen är fylld av skådespelare med enorm kraft\". Han pekar särskilt ut Pernilla Östergren som Ofelia och Peter Stormare som Hamlet.",
+      "kontext": {
+        "publikation": "Göteborgs-Posten",
+        "datum": "1988-06-13",
+        "ort": "Göteborg",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Clas Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Dramatens New York-gästspel: Beröm för Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "Daily News",
+        "refererad_recensent": "Howard Kissell"
+      }
+    },
+    {
+      "chunk_id": "GP_1988-06-13_hamlet_s58_chunk-03",
+      "text": "Peter Stormare får samma fina lovord från New York Times, som kallar hans rollprestation \"dynamisk\". Samma kritiker ger också en särskild eloge åt Ulf Johanson i rollen som Polonius. Intresset för Hamlet-föreställningen har varit stort med många och långa förhandsartiklar i New York-tidningarna. Detta är första gången som en av Ingmar Bergmans teaterföreställningar spelas i New York och det är bara andra gången som ett av hans scenerverk spelas i USA. Förra året gästade Dramaten Los Angeles med Bergmans uppsättning av \"Fröken Julie\".",
+      "kontext": {
+        "publikation": "Göteborgs-Posten",
+        "datum": "1988-06-13",
+        "ort": "Göteborg",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Clas Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Dramatens New York-gästspel: Beröm för Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "New York Times"
+      }
+    },
+    {
+      "chunk_id": "GP_1988-06-13_hamlet_s58_chunk-04",
+      "text": "Även skådespelarna själva var väldigt nöjda med premiärföreställningen i New York som gav dem stående ovationer. Enligt anställda på teatern var detta första gången på ett och ett halvt år som någon fått stående ovationer på teatern. - Publiken levde med på ett sätt som vi inte har varit om om tidigare, säger Peter Stormare och Gunnel Lindblom fyller på med ytterligare beröm åt publiken: - Publiken var enormt generös. Vi fick ett välsamt mottagande då vi gästspelade i London och trodde inte att det här skulle kunna tävla med den upplevelsen. Men det här var nog en ännu större upplevelse för oss.",
+      "kontext": {
+        "publikation": "Göteborgs-Posten",
+        "datum": "1988-06-13",
+        "ort": "Göteborg",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Clas Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Dramatens New York-gästspel: Beröm för Hamlet",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "GP_1988-06-13_hamlet_s58_chunk-05",
+      "text": "Dramaten-ensemblen ger sammanlagt åtta föreställningar av Hamlet i New York och i midsommar reser hela gruppen av skådespelare och scentekniker, sammanlagt 70 personer, till Tokyo för ett två veckors gästspel med Hamlet. Senare i september reser man till Moskva med föreställningen.",
+      "kontext": {
+        "publikation": "Göteborgs-Posten",
+        "datum": "1988-06-13",
+        "ort": "Göteborg",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Clas Lewerentz",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Dramatens New York-gästspel: Beröm för Hamlet",
+        "plats": "New York"
+      }
+    }
+  ]
+}

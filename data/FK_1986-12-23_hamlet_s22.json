@@ -1,0 +1,224 @@
+{
+  "dokument_id": "FK_1986-12-23_hamlet_s22",
+  "chunks": [
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-01",
+      "chunk_index": 1,
+      "text": "Ingmar Bergman\nEn Hamlet i tiden i Kejsarens nya kläder",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-02",
+      "chunk_index": 2,
+      "text": "SCEN: Dramaten, Stora scenen.\nPJÄS: \"Hamlet\" av William Shakespeare.\nREGI: Ingmar Bergman.\nÖVERSÄTTNING: Britt G Hallqvist.\nKOSTYMER o SCENOGRAFI: Göran Wassberg.\nMUSIK: Christian Falk o Jean Billgren.\nKOREOGRAFI: Mercedes Björlin.\nI ROLLERNA: Peter Stormare, Pernilla Östergren, Börje Ahlstedt, Gunnel Lindblom, Per Myrberg, Ulf Johansson, Pierre Wilkner, Jan Waldercrantz, Gerd Hagman, Michael Vinsa, Oscar Ljung, Johan Rabaeus, Marie Richardson, Johan Lindell, Joakim Westerberg m fl.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "faktaruta",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-03",
+      "chunk_index": 3,
+      "text": "Så har Ingmar Bergman invaderat Dramaten med en ytterst hänsynslös personlig Hamlet. Han bryter djärvt mot teaterkonventionens Hamlet och kanske just därför blir det som till en början starkt förbryllar i föreställningen allt mer under spelets gång en paradoxal styrka. Uppsättningen är med alla sina disperata element präglad av en så tydlig och intellektuell precision att det blir svårt att värja sig mot dess konstnärliga kraft.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-04",
+      "chunk_index": 4,
+      "text": "Ingmar Bergman är en regissör med drift att blotta sig själv och ger oss en Hamlet filtrerad genom Bergmans personliga liv, hans personliga relationer till livet och teaterkonsten är i iscensättningen mycket tydliga i sin komplexitet.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-05",
+      "chunk_index": 5,
+      "text": "Föreställningen är inte djärv i betydelsen radikal, det är ingen Hamlet i Gödselby utan en på Kungliga Dramaten. Bergman är ju djupt förtrogen med den borgerliga teaterns alla stilelement och nu har han djärvheten att låta dem duellera på scenen. Scen ställs mot scen i tvära stilbrott och nyöversättningens olika språknivåer kolliderar friskt utan en skymt av eftertankens kranka blekhet.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-06",
+      "chunk_index": 6,
+      "text": "PÅ LIV OCH DÖD\n\nBergman låter den borgerliga teaterkonstens schablonarméer strida på liv och död i föreställningen och vart efter de faller forcerar publiken teaterkonventionens murar och hittar fram till en Hamlet sedd ur Ofelias ögon. Hon är allestädes fysiskt närvarande och vittnar och till och med bevittnar sin egen begravning. Hon är den friska sunda kärnan i det ruttnande samhället/staten.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "PÅ LIV OCH DÖD"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-07",
+      "chunk_index": 7,
+      "text": "Form och innehåll kolliderar i de flesta scener och Bergmans kraftfullt visuella språk tar ofta överhand och Shakespeare tvingas tiga långa stunder. Den envetna bildmagin ställer sig framför texten så dialektiken mellan ord och handling uteblir och upplevelsen av dramat förstummas. Och det tar sin tid innan man lyssnat in Shakespeare igen.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "PÅ LIV OCH DÖD"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-08",
+      "chunk_index": 8,
+      "text": "KONTRASTER\n\nIscensättningen bygger på aparata kontraster. Hamlets tal till skådespelarna gäller endast den kringresande teatergruppen (Riksteatern), för övrigt i stick och stäv spelas föreställningen och lämpar inte spelet efter texten och texten efter spelet. Lidelserna slits till trasor och kulsprutesalvor spräcker trumhinnorna, etc. Förvisso teatralt effektfullt — men vad mer?",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "KONTRASTER"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-09",
+      "chunk_index": 9,
+      "text": "Föreställningen är stundtals en patetisk melodram upptrappad i en sexfixerad Hamlet med homosexuella böjelser och desperat grävande i Ofelias sköte. Bergman väljer varken för det djuriskt låga eller löjligt patetiskt högstämda. Så speglas samtiden och i alla tider dekadent.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "KONTRASTER"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-10",
+      "chunk_index": 10,
+      "text": "GENIALT MORD\n\nEtt piano klingar Glada Änkans signaturmelodi, begravningsfesten tar vid och Wieneroperettens färggranna marionettsoldater smäller klackar som champagnekorkar. Snart skall prins Hamlet skriva ordet blod med stora vita bokstäver på en svart vägg. Blod är ledmotivet i dramat. Rött och svart är de genomgående färgerna.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "GENIALT MORD"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-11",
+      "chunk_index": 11,
+      "text": "DANDYSPLEEN\n\nSkådespelarna bär kläder från skilda epoker. Hamlet (Peter Stormare) i mörka glasögon, svart kostym och svart polotröja. En postmodernistisk dandy till bredden fylld av spleen. Han koketterar aggressivt mot publiken. Hans vän Horatio (Jan Walderkranz) är nära nog en dubbelgångare till honom, mera lättsam till sinnelaget och tar sig steppande fram. Mördarkungen och drottningen i rött hör hemma i renässansens Danmark. Han ett fyllo och horkarl. Hon tar konsekvenserna av sitt handlande och begår självmord.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "DANDYSPLEEN"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-12",
+      "chunk_index": 12,
+      "text": "HOPPETS UNGMÖ\n\nOfelia är midsommardrömmens ungmö med hoppets sju blomster i sin krans. Hon är kärlekens och sanningens ljuva symbol i koketta, högklackade, röda skor, vilka byts ut mot grova marschkängor när hon med insikt vandrar in i dödens vilorum. Ofelia är föreställningens kraftcentrum, via henne når vi fram till vår egen sensibilitet, till vår oro och ångest och vår tids erfarenheter. Pernilla Östergrens Ofelia gestaltar komplexiteten med självklar övertygelse och kraft och detroniserar prins Hamlet till valp, en posör på jakt efter en renhetens mamma, mer benägen att mörda sin styvfar av svartsjuka än av hämnd på sin faders död. Och fadersliket går som en vandrande vålnad föreställningen igenom och ser till att lidelserna hålls vid liv.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "HOPPETS UNGMÖ"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-13",
+      "chunk_index": 13,
+      "text": "MEDELMÅTTORNA\n\nNär Hamlet återvänder från sin exil i England är han till utseende och klädsel nära nog identisk med den unge Bergman, och nyöversättningen har inte av en slump valt formuleringen — \"När starka krafter strider är det farligt/för medelmåttorna att gå i vägen/där klingor korsas.\"\n\nSå har jag mött krafterna Shakespeare och Bergman och det var en fantastisk envig att skåda och den borgerliga teaterns död och begravning blev en teaterfest utan like i landet.\n\nGlada Änkan inledde. Popgruppen Imperiet avslutade. Prinsen Hamlet fick en storstilad begravning med modern militär hedersbetygelse och pyroteknik. Ett TV-team dokumenterade och en TV-reporter försökte intervjua liket.",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "MEDELMÅTTORNA"
+      }
+    },
+    {
+      "chunk_id": "FK_1986-12-23_hamlet_s22_chunk-14",
+      "chunk_index": 14,
+      "text": "ATT VARA\n\nAtt vara eller inte vara kom mitt i talet till skådespelarna. Efter ett långt teaterliv har Ingmar Bergman vågat sätta den borgerliga teaterns existens på spel och aldrig har jag sett Kungliga Dramaten så teatralt naken. Inte ens Kejsarens nya kläder kan dölja detta faktum. Och i den vinkeln sett en Hamlet nära nog en Amlet även på Dramaten. Ingmar Bergman vågade till sist begå ett konstruktivt teatraliskt självmord. Det har han heder av.\n\nROLF FORSS",
+      "kontext": {
+        "publikation": "Falu-Kuriren",
+        "datum": "1986-12-23",
+        "ort": "Falun",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Rolf Forss",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "En Hamlet i tiden i Kejsarens nya kläder",
+        "underrubrik": "ATT VARA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dokument_id": "SDS_1988-06-11_hamlet_s57",
+  "chunks": [
+    {
+      "chunk_id": "SDS_1988-06-11_hamlet_s57_chunk-01",
+      "text": "Positiva reaktioner i New York på Bergmans Hamletgästspel. Det är en glädje att se Bergmans \"Hamlet\". Men jag skulle inte vilja leva embad med den här föreställningen. Det avslutar New York Posts Clive Barnes recensionerna efter onsdagens New York-premiär. Kritikerna är fascinerade men också smått omtumlade. Dramatenversionen av Hamlet är på väg att bli en av de mest nationellt spelade svenska uppsättningarna någonsin. Efter förlåtets kritikerrosade gästspel i Florens och London är det den här veckan i New York.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Lars-Georg Bergkvist",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Positiva reaktioner i New York på Bergmans Hamletgästspel",
+        "plats": "New York",
+        "sidnummer": "57"
+      }
+    },
+    {
+      "chunk_id": "SDS_1988-06-11_hamlet_s57_chunk-02",
+      "text": "- Som en Bergmanfilm - fast på teatern, utropar Mel Gussow i nöjesbilagorna New York Times och menar att Per Myrbergs vålnad ger honom rätt ur Sjunde inseglet. - Man bara väntar att han skall slå sig ner för ett schackparti med Hamlet. Recensionerna ägnar naturligtvis mycket utrymme åt de många och djärva tillägg, strykningar och omtuvningar som Bergman gjort. Ingen hävdar att han gjort våld på pjäsen men några har invändningar mot det futuristiska slutet där Örjan Rambergs närmast fascistiske Fortinbras gör ett dånande pompiskt. Det ger pjäsen ett starkt pessimistiskt slutintryck, noterar flera.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Lars-Georg Bergkvist",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Positiva reaktioner i New York på Bergmans Hamletgästspel",
+        "plats": "New York",
+        "sidnummer": "57",
+        "refererad_publikation": "New York Times",
+        "refererad_recensent": "Mel Gussow"
+      }
+    },
+    {
+      "chunk_id": "SDS_1988-06-11_hamlet_s57_chunk-03",
+      "text": "- Uppenbarligen anser Bergman att inget är så illa att det inte kan bli värre, skriver Newsdays Linda Winer. - Men från till dessa fascineras man av de flesta av regissörens manövrer. Och det gäller inte minst av Hamlet själv, dynamism och av Peter Stormare, anser Mel Gussow. - Alla ändringar trots är Bergman häpnadsväckande trogen pjäsens ande. Clive Barnes är inne på samma linje. - Det finns i uppsättningen en välhjärtad shakespearesk energi som kastar nytt hus över pjäsen även i de scener som skenbarts kan framstå som dunkla.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Lars-Georg Bergkvist",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Positiva reaktioner i New York på Bergmans Hamletgästspel",
+        "plats": "New York",
+        "sidnummer": "57",
+        "refererad_publikation": "New York Post",
+        "refererad_recensent": "Clive Barnes"
+      }
+    },
+    {
+      "chunk_id": "SDS_1988-06-11_hamlet_s57_chunk-04",
+      "text": "Dramatenaktörerna får genomgående lovord. Börje Ahlstedt får en mer jordnära kung att vad vi vant oss vid. Gunnel Lindblom tecknar tydligförändringens fålanga medan Ulf Johanssons överdrivne och traditionella Polonius är det som läsare nära språkbarriären. Stormares Hamlet beskrivs av Newsdays som en känslosprängt - erratisk, manisk, varm mot sina vänner och sensuellt gym mot Ofelia som \"a man with an extraordinary jordnära hopplöshet av Pernilla Oscagren\".",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Lars-Georg Bergkvist",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Positiva reaktioner i New York på Bergmans Hamletgästspel",
+        "plats": "New York",
+        "sidnummer": "57",
+        "refererad_publikation": "Newsday"
+      }
+    }
+  ]
+}

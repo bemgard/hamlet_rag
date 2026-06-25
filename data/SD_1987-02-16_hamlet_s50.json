@@ -1,0 +1,63 @@
+{
+  "dokument_id": "SD_1987-02-16_hamlet_s50",
+  "chunks": [
+    {
+      "chunk_id": "SD_1987-02-16_hamlet_s50_chunk-01",
+      "chunk_index": 1,
+      "text": "Ingmar Bergman har ju för sin Dramatenuppsättning strukit ner Hamlettexten ganska kraftigt och flyttat varamonologen, allt uppenbarligen för att förtäta innehållet och ge varamonologen en speciell ställning i dramat på samma sätt som Shakespeare låter den befinna sig ungefär i mitten av dramat.",
+      "kontext": {
+        "publikation": "Skånska Dagbladet",
+        "datum": "1987-02-16",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Karl-Axel Lindholm",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Antivåldspredikan"
+      }
+    },
+    {
+      "chunk_id": "SD_1987-02-16_hamlet_s50_chunk-02",
+      "chunk_index": 2,
+      "text": "Genom att flytta varamonologen en bit längre fram i texten och låta den osökt gå in i Hamlets resonemang med skådespelarna får publiken den bestämda uppfattningen, att Hamlet har gjort ett val i en bestämd riktning, något som det inte är så lätt att direkt läsa ut av innehållet i monologen. Bergmans Hamlet har en inriktning mot att göra upp, att handla. Det har textens Hamlet onekligen också, även om mycket kan förefalla vara dolt i den, eller i varje fall, inte är helt synligt. En passus i vara-monologen har ett särskilt intresse, då den uttrycker den respekt för det hinsideslivet som förmodligen fanns redan då och även nu, även om krafter finns som vill ifrågasätta våra möjligheter att få evigt liv eller ha en chans att få det.",
+      "kontext": {
+        "publikation": "Skånska Dagbladet",
+        "datum": "1987-02-16",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Karl-Axel Lindholm",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Antivåldspredikan"
+      }
+    },
+    {
+      "chunk_id": "SD_1987-02-16_hamlet_s50_chunk-03",
+      "chunk_index": 3,
+      "text": "Samvetsröst\n\nDen passusen har även ett samband med att Hamlet, sedan faderns vålnad uppenbarat sig för honom, blivit medveten om att det finns ett liv efter detta och att våra handlingar i livet har ett samband med hur vårt efter detta-liv kan gestalta sig. Hamlet diskuterar samvetet i slutet av monologen sedan han uttryckt sin oro över vad som kan hända oss i ett liv efter detta. Britt G Hallqvist översätter samvetet med den inre rösten, som gör oss alla fega – Bergman har ju använt hennes översättning.",
+      "kontext": {
+        "publikation": "Skånska Dagbladet",
+        "datum": "1987-02-16",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Karl-Axel Lindholm",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Antivåldspredikan",
+        "underrubrik": "Samvetsröst"
+      }
+    },
+    {
+      "chunk_id": "SD_1987-02-16_hamlet_s50_chunk-04",
+      "chunk_index": 4,
+      "text": "Antivåld\n\nVad säger oss Hamlet i nuläget? Diskussioner har förts i pressen om Bergmans inriktning mot att göra en uppfordrande Hamlet, en Hamlet som ser det som självklart att han vill göra uppror, att han vill revoltera på djupet och ställa allt till rätta. Varför? Jo i tiden finns det behov av att reagera mot de allt starkare våldstendenserna som välfärdssamhället dras med. Bergmans inlägg tillhör antivåldsdebatten.\n\nBergman tydliggör upproret hos Hamletfiguren. När Polonius stuckits ner bakom draperiet i Hamlets moders, drottningens sovrum — Hamlet vet inte helt säkert om det är Kungen som finns där eller Polonius — drar Hamlet Polonius över scengolvet och demonstrerar resultatet av sitt uppror.\n\nDen Hamlet som Ingmar Bergman låter oss möta i Peter Stormares gestaltning har mycket att säga oss i dagens läge. Bergmans Hamlettolkning är en antivåldspredikan. Bergman deltar i den antivåldskampanjen, som dragit igång i Sverige. Det är viktigt, att låta konsten få komma till tals i det sammanhanget. Hamlet i Bergmans tolkning, uttydning och gestaltning bör följas av ytterligare manifestationer på våra scener och på andra liknande arenor. Vi har inte råd att förlora kontakten med det praktiska samvetets röst.\n\nAtt vara eller inte vara det är alltid frågan. Att få leva i fred eller att ofredas är en fråga som vi måste ställa upp på alla och besvara med eftertryck. Handla mot våldet. Skapa ett samhälle som så långt möjligt avskaffar våldet. Vi har inte råd att låta bli att vidta åtgärder för att befria samhället från våldet!\n\nKARL-AXEL LINDHOLM",
+      "kontext": {
+        "publikation": "Skånska Dagbladet",
+        "datum": "1987-02-16",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Karl-Axel Lindholm",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Antivåldspredikan",
+        "underrubrik": "Antivåld"
+      }
+    }
+  ]
+}

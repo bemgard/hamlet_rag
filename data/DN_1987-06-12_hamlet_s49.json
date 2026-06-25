@@ -1,0 +1,57 @@
+{
+  "dokument_id": "DN_1987-06-12_hamlet_s49",
+  "chunks": [
+    {
+      "chunk_id": "DN_1987-06-12_hamlet_s49_chunk-01",
+      "text": "Bergman får ovationer i England. Ingmar Bergmans uppsättning av Hamlet fick stora ovationer när Dramaten på onsdagen inledde sitt gästspel på National Theatre i London. - Att komma hit och spela Hamlet är som att komma över och försöka slå England i fotboll, sade Peter Stormare i en tidningsintervju i veckan.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1987-06-12",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Hans-Ingvar Johnsson",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergman får ovationer i England",
+        "plats": "London",
+        "arkivreferens": "AR01"
+      }
+    },
+    {
+      "chunk_id": "DN_1987-06-12_hamlet_s49_chunk-02",
+      "text": "Mest entusiastisk är recensenten Giles Gordon i Daily News. Stormare spelar, skriver han, med en fysisk energi och intensitet som går utanpå allt vad som skulle kunna presteras av någon ung engelsk skådespelare. Också Pernilla Östergren, Börje Ahlstedt, Gunnel Lindblom och Ulf Johansson får lovord. Den mest vitala uppsättningen jag har sett på årstal, skriver Gordon sammanfattningsvis.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1987-06-12",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Hans-Ingvar Johnsson",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergman får ovationer i England",
+        "plats": "London",
+        "arkivreferens": "AR01",
+        "refererad_publikation": "Daily News",
+        "refererad_recensent": "Giles Gordon"
+      }
+    },
+    {
+      "chunk_id": "DN_1987-06-12_hamlet_s49_chunk-03",
+      "text": "Bland torsdagens morgontidningar var det bara Financial Times som hunnit anmäla föreställningen. Den är fylld av briljanta effekter, skriver kritikern Martin Hoyle. Han berömmer Peter Stormare men är kanske ändå mer imponerad av Pernilla Östergren. Hennes tolkning av Ofelia påminner honom om Harriet Andersson, \"denna stora Bergmanskådespelerska\", och hennes agerande i \"Winter Light\". Trots allt det prisvärda i föreställningen anser Hoyle i sin summering att \"man är en gång måste bekräfta att isolerade idéer inte har samverkat till att skapa en konsekvent och nydanande vision\".",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1987-06-12",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Hans-Ingvar Johnsson",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergman får ovationer i England",
+        "plats": "London",
+        "arkivreferens": "AR01",
+        "refererad_publikation": "Financial Times",
+        "refererad_recensent": "Martin Hoyle"
+      }
+    }
+  ]
+}

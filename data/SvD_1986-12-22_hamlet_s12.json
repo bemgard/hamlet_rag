@@ -1,0 +1,118 @@
+{
+  "dokument_id": "SvD_1986-12-22_hamlet_s12",
+  "chunks": [
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-01",
+      "chunk_index": 1,
+      "text": "SVENSKA DAGBLADET Stockholm 1986-12-22 Kritikerna förbryllade av Bergmans Hamlet",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-02",
+      "chunk_index": 2,
+      "text": "Ingmar Bergmans uppsättning av Hamlet har haft premiär på Dramaten. Recensenterna ställer sig tveksamma till föreställningen, även om vissa positiva omdömen fälls.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-03",
+      "chunk_index": 3,
+      "text": "Mest kritisk är Tove Ellefsen på Dagens Nyheter, som skriver: Om Bergman ville reta mig har han lyckats! Detta är AMS-understödd Parkteaterrealism i kvadrat. Peter Stormares Hamlet poserar med arrogans och ironi som chict svartklädd intellektuell, och det blir tröttsamt, entonigt och bitvis vrålande melodramatiskt. DN-recensenten slutar med: Nej, detta är inte en Shakespeare värdig Bergman. Eller en Bergman som är Shakespeare värdig.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet",
+        "refererad_publikation": "Dagens Nyheter",
+        "refererad_recensent": "Tove Ellefsen"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-04",
+      "chunk_index": 4,
+      "text": "Svenska Dagbladets egen Ingmar Björksten kallar föreställningen för postmodernistisk, tycker att Bergman är i visuell högform \"men kyligt ironiskt distanserad till ämnet för sin förhäxande vackra tolkning med dess varierande, starkt sexuella undertoner\".",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet",
+        "refererad_recensent": "Ingmar Björksten"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-05",
+      "chunk_index": 5,
+      "text": "Göteborgs Postens Sverker Andréason skriver att \"Bergman går sina egna vägar genom Shakespeares drama\", och att han någon gång \"hamnar i det alltför trendriktiga, men helheten imponerar\".",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet",
+        "refererad_publikation": "Göteborgs-Posten",
+        "refererad_recensent": "Sverker Andréason"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-06",
+      "chunk_index": 6,
+      "text": "Carlhåkan Larsén i Sydsvenska Dagbladet tycker att Bergmans iscenscenering är så rik på förbryllande egenheter att man obetingat vill återvända till denna Hamlet. Det här är en uppsättning som kommer att väcka debatt.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet",
+        "refererad_publikation": "Sydsvenska Dagbladet",
+        "refererad_recensent": "Carlhåkan Larsén"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-07",
+      "chunk_index": 7,
+      "text": "Expressens recensent Leif Zern slutligen skriver: Det är möjligt att uppsättningen med sitt svarta landskap, sitt ödsliga ljus och det metalliska rocksoundet i slutscenen vill spegla den värld som just nu är vår. I så fall gör den det med hjälp av påståenden som vägrar att förvandlas till pjäsens kött och blod. Dess tecken och bilder övertygar inte om sin nödvändighet. Där den är som intensivast leder den oss rätt in i Bergmans värld, mera sällan Shakespeares.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet",
+        "refererad_publikation": "Expressen",
+        "refererad_recensent": "Leif Zern"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-22_hamlet_s12_chunk-08",
+      "chunk_index": 8,
+      "text": "Peter Stormare som Hamlet och Pernilla Östergren som Ofelia i Ingmar Bergmans svalt mottagna uppsättning på Dramaten. Foto: BENGT WANSELIUS",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-22",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "bildtext",
+        "rubrik": "Kritikerna förbryllade av Bergmans Hamlet"
+      }
+    }
+  ]
+}

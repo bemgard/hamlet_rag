@@ -1,0 +1,33 @@
+{
+  "dokument_id": "SvD_1986-12-21_hamlet_s2",
+  "chunks": [
+    {
+      "chunk_id": "SvD_1986-12-21_hamlet_s2_chunk-01",
+      "text": "Ett omåttligt äckel vid allt vad livet visat sig vara kännetecknar Ingmar Bergmans uppsättning av Hamlet på Dramaten. Visuellt är Bergman i högform, skriver Ingmar Björkstén, men kyligt ironiskt distanserad till ämnet för sin förhäxande vackra tolkning, med dess varierade och starkt sexuella undertoner.",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-21",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Ingmar Björkstén",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "Ett hav av plågor",
+        "status": "ofullständig – fortsätter sidan 15"
+      }
+    },
+    {
+      "chunk_id": "SvD_1986-12-21_hamlet_s2_chunk-02",
+      "text": "Blod är tolkningens tema, det understryks genom färgerna på hovets dräkter. Bort med all romantik, tycks Bergman ha tänkt, skriver Björkstén. Efter paus blir det tydligt vem Bergman kan ha sett i den prins han valt: sig själv som ung, hetlevrad, brusande och vild i ett hav av plågor. Men till skillnad från sin regissör som valp förblir prinsen händelsernas fånge...",
+      "kontext": {
+        "publikation": "Svenska Dagbladet",
+        "datum": "1986-12-21",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Ingmar Björkstén",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "Ett hav av plågor",
+        "status": "ofullständig – fortsätter sidan 15"
+      }
+    }
+  ]
+}

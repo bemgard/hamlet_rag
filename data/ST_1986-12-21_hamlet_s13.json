@@ -1,0 +1,47 @@
+{
+  "dokument_id": "ST_1986-12-21_hamlet_s13",
+  "chunks": [
+    {
+      "chunk_id": "ST_1986-12-21_hamlet_s13_chunk-01",
+      "chunk_index": 1,
+      "text": "SUNDSVALLS TIDNING Sundsvall 1986-12-21 (1) AR59 Suverän Hamlet på Dramaten",
+      "kontext": {
+        "publikation": "Sundsvalls Tidning",
+        "datum": "1986-12-21",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Curt Bladh",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "Suverän Hamlet på Dramaten"
+      }
+    },
+    {
+      "chunk_id": "ST_1986-12-21_hamlet_s13_chunk-02",
+      "chunk_index": 2,
+      "text": "Oskulden och den syndfulla: Pernilla Östergren och Gunnel Lindblom i \"Hamlet\" på Dramaten. FOTO BENGT WANSELIUS",
+      "kontext": {
+        "publikation": "Sundsvalls Tidning",
+        "datum": "1986-12-21",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Curt Bladh",
+        "dokumenttyp": "bildtext",
+        "rubrik": "Suverän Hamlet på Dramaten"
+      }
+    },
+    {
+      "chunk_id": "ST_1986-12-21_hamlet_s13_chunk-03",
+      "chunk_index": 3,
+      "text": "Suverän till tiden och till Shakespeare och framför allt en hyllning till skådespelarkonsten. Så är Ingmar Bergmans första uppsättning av \"Hamlet\" — premiär på Dramaten på lördagen. Bergman är fantasifull och lekfull och det allvarliga dramat blir aldrig tungt. Men framför allt är detta Peter Stormares uppsättning. Hans Hamlet är föreställningens dominerande kraft. Och så kan man se Bergmans första \"Hamlet\" som en hyllning till skådespelarkonsten, skriver Curt Bladh.",
+      "kontext": {
+        "publikation": "Sundsvalls Tidning",
+        "datum": "1986-12-21",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "recensent": "Curt Bladh",
+        "dokumenttyp": "tidningsrecension",
+        "rubrik": "Suverän Hamlet på Dramaten"
+      }
+    }
+  ]
+}

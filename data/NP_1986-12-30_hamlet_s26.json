@@ -1,0 +1,62 @@
+{
+  "dokument_id": "NP_1986-12-30_hamlet_s26",
+  "chunks": [
+    {
+      "chunk_id": "NP_1986-12-30_hamlet_s26_chunk-01",
+      "chunk_index": 1,
+      "text": "Bergmans Hamlet är ingenting alls\n\nI en intervju i DN nyligen anger Ingmar Bergman två skäl till att han nu sätter upp Shakespeares Hamlet på Dramaten. Att han om två år är 70 och tycker att han dessförinnan måste ha gjort Hamlet är det ena. Det andra skälet, säger han, är detta: Shakespeare skrev dramat när han var 37 år och just nu finns det en skådespelare på nära och 30 vid teatern lämplig.\n\nSom det kan vara svårt att gissa rätt bland det antal skådespelare i lämplig ålder som rimligen bör finnas där kan det vara så gott som från början tala om att den åsyftade heter Peter Stormare.\n\nJag ska också på en gång säga att denne Bergmans och Stormares Hamlet inte gjorde mig glad.",
+      "kontext": {
+        "publikation": "Nynäshamns-Posten",
+        "datum": "1986-12-30",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Teresa Janzon",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergmans Hamlet är ingenting alls"
+      }
+    },
+    {
+      "chunk_id": "NP_1986-12-30_hamlet_s26_chunk-02",
+      "chunk_index": 2,
+      "text": "Stormare har två å tre lägen. Han är blaserat ironisk, melodramatisk och synnerligen p[oläsligt]. Sedan är det slut. Att nyansera sig smidigt och med små medel är inte att tänka på. Den stackars prinsen sen av Danmark som sörjer sin mördade fader och vill hämnas hans död blir därmed en underlig [oläsligt].\n\nLägg därtill att Bergman växlar mellan olika spelstilar och epoker på ett sätt som gör dramat hackigt och ytligt. I den mån känslighet och inkännande får plats på scenen är det Ofelia som är stå för det. Bergman har också strukit ner och stuvat om. Så har han t ex flyttat den klassiska \"vara-monologen\" från kyrkogårdsscenen till mötet med gästande skådespelartruppen.",
+      "kontext": {
+        "publikation": "Nynäshamns-Posten",
+        "datum": "1986-12-30",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Teresa Janzon",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergmans Hamlet är ingenting alls",
+        "status": "ofullständig"
+      }
+    },
+    {
+      "chunk_id": "NP_1986-12-30_hamlet_s26_chunk-03",
+      "chunk_index": 3,
+      "text": "Men om Bergman är sparsam med sublima känslolägen fäskar han istället på med effekterna.\n\nDödgrävaren blir en gycklande lustigkurre och drottningen en vulgär fyllka ja har helt plakat stafs upp på scenen. Scenografin använder sig av dödens svarta och blodets röda färger. Oskulden känns igen på Ofelias (Pernilla Östergren) klänning. Scenrummet går i kalt blågrått och är i de närmaste helt kalt.\n\nOch som om pjäsens budskap om svek och makt och våld ytterligare behöver förtydligas och uppdateras till modern tid låter Bergman en trupp soldater med drag av kspistar invadera Danmark och scenen i en överlastad slutscen där de under rutrök spränger fram ur under ackompanjemang av Imperiets rockmusik dånar fram ur bärbara bandspelarna.",
+      "kontext": {
+        "publikation": "Nynäshamns-Posten",
+        "datum": "1986-12-30",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Teresa Janzon",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergmans Hamlet är ingenting alls"
+      }
+    },
+    {
+      "chunk_id": "NP_1986-12-30_hamlet_s26_chunk-04",
+      "chunk_index": 4,
+      "text": "Pjäsen hör till våra dramatiska mästerverk men i denna tappning är den som en kostym av klassiskt snitt som förutom att den är slarvigt hopträcklad och illa sydd dessutom utrustats med ett antal trendiga attribut som gör att den inte har någon stil alls.\n\nPernilla Östergren och Peter Stormare i Ingmar Bergmans uppsättning av \"Hamlet\". Foto: Bengt Wanselius.\n\nScen: Dramatens stora\nPjäs: Hamlet av William Shakespeare\nRegi: Ingmar Bergman\nMedverkande: Peter Stormare, Pernilla Östergren, Per Myrberg, Gunnel Lindblom, Börje Ahlstedt, m fl.",
+      "kontext": {
+        "publikation": "Nynäshamns-Posten",
+        "datum": "1986-12-30",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Teresa Janzon",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Bergmans Hamlet är ingenting alls"
+      }
+    }
+  ]
+}

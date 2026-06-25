@@ -1,0 +1,87 @@
+{
+  "dokument_id": "TTB_1988-06-11_hamlet_s68",
+  "chunks": [
+    {
+      "chunk_id": "TTB_1988-06-11_hamlet_s68_chunk-01",
+      "text": "Dramatens gästspel i New York. Dramatens gästspel med HAMLET i Ingmar Bergmans regi på Brooklyn Academy of Music har uppmärksammats i alla dagstidningar i New York. Fredagens New York Times, New York Post och Daily News innehåller alla långa, uppskattande recensioner av föreställningen och i samtliga beröms ensemblen oerhört för sin intensiva, starka insats - inte minst Peter Stormare som Hamlet rosas oerhört.",
+      "kontext": {
+        "publikation": "Tidningarnas Telegrambyrå",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "avsändare": "K. Ehnbom-Palmquist, Pressattaché",
+        "dokumenttyp": "pressrapport",
+        "rubrik": "Dramatens gästspel i New York",
+        "plats": "New York",
+        "sidnummer": "68"
+      }
+    },
+    {
+      "chunk_id": "TTB_1988-06-11_hamlet_s68_chunk-02",
+      "text": "New York Times recension har rubriken \"Hamlet stamped with a Bergman seal\". Mel Gussow säger att föreställningen är som en Bergmanfilm på scenen, med ett anslående bildspråk som ideligen fångar oss - och, som det verkar Hamlet själv - oförberedda. Han säger vidare att man med god kännedom om dramat då och då tycker sig förstå svenska, trots att scener och dialoger stuvats om. Alla skådespelarna får mycket beröm för intensivt utspel och trofasthet mot Bergmans intentioner.",
+      "kontext": {
+        "publikation": "Tidningarnas Telegrambyrå",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "avsändare": "K. Ehnbom-Palmquist, Pressattaché",
+        "dokumenttyp": "pressrapport",
+        "rubrik": "Dramatens gästspel i New York",
+        "plats": "New York",
+        "sidnummer": "68",
+        "refererad_publikation": "New York Times",
+        "refererad_recensent": "Mel Gussow"
+      }
+    },
+    {
+      "chunk_id": "TTB_1988-06-11_hamlet_s68_chunk-03",
+      "text": "Daily News \"For raw challenge, the play's the thing\" förvånar sig över hur Ingmar Bergmans regi kan besitta en sådan ungdomlig frenes och menar att om man inte visste vem regissören var skulle man förmoda att det rörde sig om en ung vildhjärna från Chicago. Tidningen säger vidare att uppsättningen fordrar god baskunskaper i dramat, eftersom föreställningen hela tiden ifrågasätter och utmanar publikens uppfattning om dramat. Den irriterar lika ofta som den upplyser.",
+      "kontext": {
+        "publikation": "Tidningarnas Telegrambyrå",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "avsändare": "K. Ehnbom-Palmquist, Pressattaché",
+        "dokumenttyp": "pressrapport",
+        "rubrik": "Dramatens gästspel i New York",
+        "plats": "New York",
+        "sidnummer": "68",
+        "refererad_publikation": "Daily News"
+      }
+    },
+    {
+      "chunk_id": "TTB_1988-06-11_hamlet_s68_chunk-04",
+      "text": "Om skådespelarna sägs att hela ensemblen agerar på en så exceptionellt hög nivå, så intensivt, så kommunikativt, att publiken sitter fullkomligt trollbunden. \"Man skulle kunna svära på att alla förstod svenska\", säger Howard Kissel. Peter Stormare beröms för en \"astonishing performance\" - en skådespelare som kan uppfylla Bergmans önskningar så fullkomligt, så övertygande, bör kunna göra vad som helst. Hela ensemblen består av skådespelare med en oerhörd kraft, säger Kissel och lyfter även fram Gunnel Lindbloms insats som Gertrude.",
+      "kontext": {
+        "publikation": "Tidningarnas Telegrambyrå",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "avsändare": "K. Ehnbom-Palmquist, Pressattaché",
+        "dokumenttyp": "pressrapport",
+        "rubrik": "Dramatens gästspel i New York",
+        "plats": "New York",
+        "sidnummer": "68",
+        "refererad_publikation": "Daily News",
+        "refererad_recensent": "Howard Kissel"
+      }
+    },
+    {
+      "chunk_id": "TTB_1988-06-11_hamlet_s68_chunk-05",
+      "text": "New York Post - \"Modern Hamlet highly strung\" menar att Bergman tagit sig friheter i om- och nytolkningen av Hamlet som ingen engelskspråkig regissör skulle våga. Han har ändrat karaktärerna och presenterar dem delvis i ny tappning och många av scenerna är chockerande tycke Clive Barnes. Om skådespelarnas prestationer säger han att hela ensemblen är \"consistently excellent\", men att mycket vilar på Stormares Hamlet, som tecknas som en produkt av 1900-talet, mernervös än melankolisk, mer vresig än hämndlysten. Om föreställningen som helhet säger han att den har en \"consistent clownish integrity\".",
+      "kontext": {
+        "publikation": "Tidningarnas Telegrambyrå",
+        "datum": "1988-06-11",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "avsändare": "K. Ehnbom-Palmquist, Pressattaché",
+        "dokumenttyp": "pressrapport",
+        "rubrik": "Dramatens gästspel i New York",
+        "plats": "New York",
+        "sidnummer": "68",
+        "refererad_publikation": "New York Post",
+        "refererad_recensent": "Clive Barnes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "dokument_id": "SNSD_1987-06_hamlet_s52",
+  "chunks": [
+    {
+      "chunk_id": "SNSD_1987-06_hamlet_s52_chunk-01",
+      "text": "Londonrosor för \"svensk Hamlet\". - Jo, visst är det en alldeles speciell känsla att spela Hamlet på Shakespeares \"hemmaarena\", medger Peter Stormare, titelrollsinnehavare i Ingmar Bergmans uppsättning som görs på National Theatre i London. Stormare erkänner att han fruktade \"kyliga ögonkast\", det skulle vara svårt att övertyga en publik som kan sin \"äkta Hamlet\".",
+      "kontext": {
+        "publikation": "Sverige-Nytt Swedish Digest",
+        "datum": "1987-06",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Londonrosor för svensk Hamlet",
+        "plats": "London",
+        "utgåva": "26/87"
+      }
+    },
+    {
+      "chunk_id": "SNSD_1987-06_hamlet_s52_chunk-02",
+      "text": "Dramatchefen Lars Löfgren och aktörer i gruppen uppges ha fått lovord av Londonkritiker redan dagen efter premiären 11 juni. London Daily News skrev: \"Detta är den mest vitala uppsättning jag har sett på år och år.\" Daily Mail uppmanade läsarna att besöka Ingmar Bergmans uppsättning och lyfta fram dess sexuella undertoner och mästerliga skildring av politisk korruption.",
+      "kontext": {
+        "publikation": "Sverige-Nytt Swedish Digest",
+        "datum": "1987-06",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Londonrosor för svensk Hamlet",
+        "plats": "London",
+        "utgåva": "26/87",
+        "refererad_publikation": "London Daily News"
+      }
+    },
+    {
+      "chunk_id": "SNSD_1987-06_hamlet_s52_chunk-03",
+      "text": "På Dramatens Stockholmsscen har Hamlet gått 64 gånger. Dessutom har ensemblen gästspelat i Florens. Lars Löfgren berättade att ensemblen är redo även för fler Hamlet-gästspel. Dramatens första visit på National Theatre på 15 år ingick också två föreställningar av Fröken Julie. Kostnaderna för besöket täcktes av National Theatre, som inbjudit Dramaten.",
+      "kontext": {
+        "publikation": "Sverige-Nytt Swedish Digest",
+        "datum": "1987-06",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Londonrosor för svensk Hamlet",
+        "plats": "London",
+        "utgåva": "26/87"
+      }
+    }
+  ]
+}

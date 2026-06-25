@@ -1,0 +1,50 @@
+{
+  "dokument_id": "SDS_1988-06-07_hamlet_s66",
+  "chunks": [
+    {
+      "chunk_id": "SDS_1988-06-07_hamlet_s66_chunk-01",
+      "text": "Blågult så det förslår i USA. Ingmar Bergmans Dramatenuppsättning av Hamlet skall som Sydsvenskan tidigare berättat gästspela i New York med början på onsdag.",
+      "kontext": {
+        "publikation": "Sydsvenska Dagbladet",
+        "datum": "1988-06-07",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Ulf Mörling",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Blågult så det förslår i USA",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "SDS_1988-06-07_hamlet_s66_chunk-02",
+      "text": "Evenemanget har redan uppmärksammats av en rad tidningar, bl a New York Times och Daily News. Veckotidningen 7 Days har också gjort en förhandsartikel inför gästspelet, där Ann Cattaneo skriver om Hamlet.",
+      "kontext": {
+        "publikation": "Sydsvenska Dagbladet",
+        "datum": "1988-06-07",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Ulf Mörling",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Blågult så det förslår i USA",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "SDS_1988-06-07_hamlet_s66_chunk-03",
+      "text": "Det överraskande är att hon gör det på svenska - med en kort sammanfattning på engelska! När redaktionen på 7 Days hörde att Hamlet skall ges på svenska i New York kom de på idén att skriva även artikeln på svenska. Den amerikanska läsekretsen bör ha blivit minst sagt konfunderad...",
+      "kontext": {
+        "publikation": "Sydsvenska Dagbladet",
+        "datum": "1988-06-07",
+        "ort": "Malmö",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Ulf Mörling",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Blågult så det förslår i USA",
+        "plats": "New York"
+      }
+    }
+  ]
+}

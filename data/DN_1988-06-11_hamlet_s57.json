@@ -1,0 +1,88 @@
+{
+  "dokument_id": "DN_1988-06-11_hamlet_s57",
+  "chunks": [
+    {
+      "chunk_id": "DN_1988-06-11_hamlet_s57_chunk-01",
+      "text": "Lysande recensioner för Bergmans \"Hamlet\". Lysande skådespelare, regisserade av ett geni som möjligen varit väl brutal mot Shakespeare. Det tycker kritikerna om Ingmar Bergmans version av \"Hamlet\". Uppsättningen är identisk med den som hade premiär på Dramaten 1986. Under en vecka gästspelar ensemblen på Brooklyn Academy of Music i New York. Torsdagens premiär möttes av våldsam entusiasm från de 700 specialinbjudna åskådarna. Även recensenterna är genomgående positiva.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1988-06-11",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Sigge Anderberg",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Lysande recensioner för Bergmans Hamlet",
+        "plats": "New York"
+      }
+    },
+    {
+      "chunk_id": "DN_1988-06-11_hamlet_s57_chunk-02",
+      "text": "- Man skulle kunna tro att pjäsen regisserats av en ung spoling från Chicago, skriver Howard Kissel i Daily News. Föreställningen har en ungdomlig råhet och en modern framtoning som ibland irriterar, men som oftast klargör pjäsens intrig. Kissel är lyrisk över Peter Stormare, Börje Ahlstedt, Gunnel Lindblom och de andra skådespelarnas insatser. \"De agerar på en extraordinär nivå - så intensivt och så kommunikativt att publiken är helt förhäxad. Det är som om alla begrep svenska\", skriver han.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1988-06-11",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Sigge Anderberg",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Lysande recensioner för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "Daily News",
+        "refererad_recensent": "Howard Kissel"
+      }
+    },
+    {
+      "chunk_id": "DN_1988-06-11_hamlet_s57_chunk-03",
+      "text": "Linda Winer på New York Newsday är fascinerad över det våldsamma fysiska och sexuella utspelet. Däremot är hon tveksam till Bergmans omtuvningar och strykningar. \"Trots alla ändringar känns föreställningen på ringot sätt ofräsch\", tycker Linda Winer.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1988-06-11",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Sigge Anderberg",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Lysande recensioner för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "New York Newsday",
+        "refererad_recensent": "Linda Winer"
+      }
+    },
+    {
+      "chunk_id": "DN_1988-06-11_hamlet_s57_chunk-04",
+      "text": "- Som en Bergmanfilm, men på teater, skriver Mel Gussow i New York Times och drar paralleller med \"Det sjunde inseglet\" och \"Fanny och Alexander\". Trots alla ändringar i texten är Bergman trogen pjäsens ande - åtminstone till slutet, tycker Gussow, som förvånas över den norske prinsen Fortinbras fascistiska framtoning. Vad har Bergman emot Norge? undrar Gussow. Han öser beröm över skådespelarna, men tycker att den tre och en halv timme långa föreställningen ibland går på tomgång.",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1988-06-11",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Sigge Anderberg",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Lysande recensioner för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "New York Times",
+        "refererad_recensent": "Mel Gussow"
+      }
+    },
+    {
+      "chunk_id": "DN_1988-06-11_hamlet_s57_chunk-05",
+      "text": "Mest kritisk är Clive Barnes i New York Post. \"Bergmans Hamlet är en 1900-talsneurotiker som i bästa fall är färdig för psykiatrikerns soffa och i värsta fall för bårhuset\", skriver han. Barnes är inte överdrivet förtjust i Bergmans sätt att blanda olika stilar och olika tidspoker. \"Ett misch-masch där karaktärerna framstår som bisarra, på gränsen till perversa\", skriver Barnes, men utbrister plötsligt: \"Ändå är föreställningen full av energi som kastar ett säreget ljus över pjäsen.\"",
+      "kontext": {
+        "publikation": "Dagens Nyheter",
+        "datum": "1988-06-11",
+        "ort": "Stockholm",
+        "pjäs": "Hamlet",
+        "regissör": "Ingmar Bergman",
+        "journalist": "Sigge Anderberg",
+        "dokumenttyp": "tidningsartikel",
+        "rubrik": "Lysande recensioner för Bergmans Hamlet",
+        "plats": "New York",
+        "refererad_publikation": "New York Post",
+        "refererad_recensent": "Clive Barnes"
+      }
+    }
+  ]
+}
