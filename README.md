@@ -9,6 +9,12 @@
 
 ---
 
+## Screenshot
+
+![Dramaten Arkivet — sökgränssnitt](docs/screenshot-search.png)
+
+![Dramaten Arkivet — svar](docs/screenshot-answer.png)
+
 ## Om projektet
 
 Detta projekt är ett examensarbete vid Stockholms universitet som undersöker hur digitalisering av arkivmaterial kan öka tillgängligheten till kulturarvsinstitutioners historiska samlingar.
