@@ -1,0 +1,7 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+.env
+hamlet_chroma_db/
+*.db
